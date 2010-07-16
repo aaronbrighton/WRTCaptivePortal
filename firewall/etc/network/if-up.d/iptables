@@ -1,0 +1,3 @@
+#!/bin/sh
+/etc/firewall.conf
+/etc/getMasterFirewall.php&
